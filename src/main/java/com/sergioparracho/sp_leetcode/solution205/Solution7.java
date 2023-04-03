@@ -1,5 +1,11 @@
 package com.sergioparracho.sp_leetcode.solution205;
 
+/**
+ * @author Sergio Parracho 
+ * GitHub: https://github.com/djspx 
+ * LinkedIn: https://ca.linkedin.com/in/sergioparracho
+ */
+
 // Best yet
 public class Solution7 {
 	public static void main(String[] args) {

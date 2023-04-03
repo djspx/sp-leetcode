@@ -1,8 +1,9 @@
 package com.sergioparracho.sp_leetcode;
 
 /**
- * @author Sergio Parracho GitHub: https://github.com/djspx LinkedIn:
- *         https://ca.linkedin.com/in/sergioparracho
+ * @author Sergio Parracho 
+ * GitHub: https://github.com/djspx 
+ * LinkedIn: https://ca.linkedin.com/in/sergioparracho
  */
 
 //Runtime5 ms
