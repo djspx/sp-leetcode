@@ -9,7 +9,7 @@ package com.sergioparracho.sp_leetcode.solution205;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution3 {
+public class Solution205c {
 	public static void main(String[] args) {
 		System.out.println(isIsomorphic("egg", "add"));
 		System.out.println(isIsomorphic("bbbaaaba", "aaabbbba"));

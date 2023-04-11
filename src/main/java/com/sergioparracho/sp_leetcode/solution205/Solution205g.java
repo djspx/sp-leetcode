@@ -7,7 +7,7 @@ package com.sergioparracho.sp_leetcode.solution205;
  */
 
 // Best yet
-public class Solution7 {
+public class Solution205g {
 	public static void main(String[] args) {
 		System.out.println(isIsomorphic("egg", "add"));
 		System.out.println(isIsomorphic("bbbaaaba", "aaabbbba"));

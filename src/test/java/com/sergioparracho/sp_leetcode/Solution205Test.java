@@ -10,14 +10,33 @@ import org.junit.jupiter.api.Test;
  */
 class Solution205Test {
 
-	@Test
-	void test() {
-		Assertions.assertTrue(Solution205.isIsomorphic("egg", "add"));
-		Assertions.assertFalse(Solution205.isIsomorphic("foo", "bar"));
-		Assertions.assertTrue(Solution205.isIsomorphic("paper", "title"));
-		Assertions.assertFalse(Solution205.isIsomorphic("bbbaaaba", "aaabbbba"));
-		Assertions.assertFalse(Solution205.isIsomorphic("badc", "baba"));
-		Assertions.assertFalse(Solution205.isIsomorphic("baddc", "babga"));
-	}
+  @Test
+  void test1() {
+    Assertions.assertTrue(Solution205.isIsomorphic("egg", "add"));
+  }
 
+  @Test
+  void test2() {
+    Assertions.assertFalse(Solution205.isIsomorphic("foo", "bar"));
+  }
+
+  @Test
+  void test3() {
+    Assertions.assertTrue(Solution205.isIsomorphic("paper", "title"));
+  }
+
+  @Test
+  void test4() {
+    Assertions.assertFalse(Solution205.isIsomorphic("bbbaaaba", "aaabbbba"));
+  }
+
+  @Test
+  void test5() {
+    Assertions.assertFalse(Solution205.isIsomorphic("badc", "baba"));
+  }
+
+  @Test
+  void test6() {
+    Assertions.assertFalse(Solution205.isIsomorphic("baddc", "babga"));
+  }
 }

@@ -9,8 +9,8 @@ package com.sergioparracho.sp_leetcode.solution205;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution5 {
-	public boolean isIsomorphic(String s, String t) {
+public class Solution205e {
+	public static boolean isIsomorphic(String s, String t) {
 		Map<Character, Integer> charToIndex_s = new HashMap<>();
 		Map<Character, Integer> charToIndex_t = new HashMap<>();
 

@@ -12,7 +12,7 @@ package com.sergioparracho.sp_leetcode.solution205;
 //Memory42.2 MB
 //Beats
 //78.80%
-public class Solution8 {
+public class Solution205h {
 	public static void main(String[] args) {
 		System.out.println(isIsomorphic("egg", "add"));
 		System.out.println(isIsomorphic("bbbaaaba", "aaabbbba"));

@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 // Best runtime so far
-public class Solution4 {
+public class Solution205d {
 	public static void main(String[] args) {
 		System.out.println(isIsomorphic("egg", "add"));
 		System.out.println(isIsomorphic("bbbaaaba", "aaabbbba"));
