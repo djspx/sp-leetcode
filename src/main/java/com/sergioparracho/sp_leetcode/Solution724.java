@@ -6,17 +6,13 @@ package com.sergioparracho.sp_leetcode;
  * LinkedIn: https://ca.linkedin.com/in/sergioparracho
  */
 
+//Runtime1 ms
+//Beats
+//100%
+//Memory43.6 MB
+//Beats
+//14.41%
 class Solution724 {
-
-	public static void main(String[] args) {
-//		System.out.println(pivotIndex(new int[] { 1,7,3,6,5,6 }));
-		System.out.println(pivotIndex(new int[] { 1, 2, 3 }));
-//		System.out.println(pivotIndex(new int[] { 2,1,-1 }));
-//		System.out.println(pivotIndex(new int[] { -1,-1,-1,-1,-1,0 }));
-//		System.out.println(pivotIndex(new int[] { -1,-1,-1,-1,-1,-1 }));
-
-	}
-
 	public static int pivotIndex(int[] nums) {
 		int right = 0;
 		for (int i = 0; i < nums.length; i++) {
